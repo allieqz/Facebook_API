@@ -1,3 +1,3 @@
 # Facebook_API
 
-Python anf R code to access publi Faceboo data
+Python and R code to access public Faceboo data
